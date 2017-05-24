@@ -1,4 +1,4 @@
- # CMSC320: Data Science Tutorial Project
+ # Data Science Tutorial
 
 # Installing the datasets
 In this tutorial, we use several datasets.  The first is an energy dataset, which can be found at data.gov, and the other two are temperature datasets, maintained by the University of Califorinia, Berkeley.
